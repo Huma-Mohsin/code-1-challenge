@@ -1,0 +1,11 @@
+Day 1 Challenge: Start Coding!** 🚀
+
+**Question 1:** Install Node.js, TypeScript and VS Code on your computer/Laptop.
+
+* Node has been installed from its official website i.e v 20.11.1 while npm version is finding by npm -v i.e 10.2.4
+
+* TypeScript has been installed by following command.
+       npm install --global typscript@5.0.2
+       i.e 5.3.3 version is used right now.(finding by tsc -v)
+
+* vs-code is also installed  having version 1.86.2.
